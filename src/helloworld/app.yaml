@@ -1,6 +1,6 @@
 application: solar-web
 version: 1
-runtime: python30
+runtime: python27
 api_version: 1
 threadsafe: true
 
